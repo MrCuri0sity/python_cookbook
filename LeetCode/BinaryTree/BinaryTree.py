@@ -17,7 +17,6 @@ class BinaryTree:
         self.root = BinaryNode()
         self.myQueue = []
 
-
     def add(self, value):
         """
         construct a binary tree
